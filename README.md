@@ -18,66 +18,29 @@ An advanced AI-powered color detection system built by **Maanas Gulati**, using 
 
 ### Installation
 # Clone the repository
-git clone https://github.com/yourusername/color-detector.git
+git clone https://github.com/Maanasgulatii/Color-Detection_AI.git 
 
 # Navigate to the project directory
-cd color-detector
+cd Color-Detection_AI
 
 # Install required packages
 pip install -r requirements.txt
-Usage
-pythonCopy# Run the main application
-python color_detector.py
 
-Future Work
+### Usage
+# Run the main application
+python Color-Detection_AI.py
 
-Enhanced Detection Capabilities
+### Future Work
 
-Implementation of deep learning models for improved accuracy
-Support for gradient and pattern detection
-Color blindness simulation modes
-Extended color palette recognition
+- Enhanced Detection Capabilities
+-  User Interface Improvements
+- Technical Enhancements
+- Mobile App Development
 
+### Applications
 
-User Interface Improvements
-
-Development of a GUI interface
-Custom color profile creation
-Color history tracking
-Export functionality for detected colors
-
-
-Technical Enhancements
-
-GPU acceleration support
-Multiple camera input handling
-Color matching algorithms
-Integration with color management systems
-
-
-Additional Features
-
-Color palette suggestion system
-Color scheme analysis
-Integration with design software
-Color accessibility assessment tools
-
-
-Mobile Development
-
-Mobile application version
-Cross-platform compatibility
-Cloud storage integration
-Real-time sharing capabilities
-
-
-
-Applications
-
-Quality Control: Color verification in manufacturing
-Design: Color matching and palette creation
-Education: Color theory and vision science
-Accessibility: Assistance for color-blind individuals
-Photography: Color analysis and correction
-Industrial: Product color verification
-Fashion: Fabric and material color matching
+1. Design: Color matching and palette creation
+2. Education: Color theory and vision science
+3. Accessibility: Assistance for color-blind individuals
+4. Photography: Color analysis and correction
+5. Industrial: Product color verification
