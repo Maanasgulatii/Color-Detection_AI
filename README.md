@@ -1,3 +1,4 @@
+# Color-Detection_AI
 ### Overview
 An advanced AI-powered color detection system built by **Maanas Gulati**, using Python and OpenCV that provides precise, real-time identification and classification of colors from live video feeds. It adapts to varying lighting conditions and backgrounds, making it ideal for applications in quality control, design, accessibility assistance, and educational purposes. This Color Detector also utilizes computer vision techniques to analyze video input streams and accurately identify colors in real-time. The system not only detects basic colors but also distinguishes between various shades and hues, providing detailed color information with high precision.
 
@@ -17,17 +18,17 @@ An advanced AI-powered color detection system built by **Maanas Gulati**, using 
 - PyCharm IDE
 
 ### Installation
-# Clone the repository
+### Clone the repository
 git clone https://github.com/Maanasgulatii/Color-Detection_AI.git 
 
-# Navigate to the project directory
+### Navigate to the project directory
 cd Color-Detection_AI
 
-# Install required packages
+### Install required packages
 pip install -r requirements.txt
 
 ### Usage
-# Run the main application
+### Run the main application
 python Color-Detection_AI.py
 
 ### Future Work
